@@ -1,0 +1,14 @@
+This program is used to generate random words and append them to a file.
+The words can then be used as placeholder text for a website or a 
+document. 
+
+The program was originally made in Python, then ported to C++, then 
+ported to C. The final port was done as part of an exercise in
+practising craftsmanship and modularity. Both original programs were
+made entirely in the main function, so I set out to split it up into
+logical steps instead. That produced this version.
+
+I don't currently have any plans which involve this program for the
+future, but it may be used in conjunction with other programs, for 
+example to generate some text for another script to scan through or 
+encode.
